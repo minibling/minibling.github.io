@@ -1,5 +1,60 @@
 body {
+    
     margin: 0;
-    background: plum;
     text-align: center;
+    background-image: url(pokifeet.gif); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
 }
+
+
+
+.bruh {
+    
+    color: white;
+    transform: translate(0px, 225px) scale(2);
+    
+}
+
+/* Resize and moving asian montage lady picture */
+
+.img-asian {
+    
+    transform: translate(0px, -100px) scale(0.4);
+}
+
+/* Top text outline */
+
+h1 {
+    
+    text-shadow: 2px 2px #8c74a5;
+   /* -webkit-text-stroke-width:0.5px;
+    -webkit-text-stroke-color: white;
+    FOR WHITE OUTLINE */
+}
+
+h2 {
+    text-shadow: rgb(216, 169, 255) 1px 0 15px;
+}
+
+/* NO MORE STUPID PRUPLE LINKS */
+
+a:link { 
+    
+    text-decoration: none; color:#ffffff;
+  } 
+  a:visited { 
+    text-decoration: none; color:#ffffff;
+  } 
+  a:hover { 
+    text-decoration: none; color:#ffffff; 
+  } 
+  a:active { 
+    text-decoration: none; color:#ffffff;
+
+  }
