@@ -2,7 +2,7 @@ body {
     
     margin: 0;
     text-align: center;
-   # background-image: url(pokifeet.gif); 
+   /* background-image: url(pokifeet.gif); */ 
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -32,7 +32,7 @@ body {
 
 h1 {
     
-    text-shadow: 2px 2px #8c74a5;
+    text-shadow: 2px 2px #978345;
    /* -webkit-text-stroke-width:0.5px;
     -webkit-text-stroke-color: white;
     FOR WHITE OUTLINE */
