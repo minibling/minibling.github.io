@@ -2,7 +2,7 @@ body {
     
     margin: 0;
     text-align: center;
-    background-image: url(pokifeet.gif); 
+   # background-image: url(pokifeet.gif); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
